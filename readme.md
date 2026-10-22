@@ -18,8 +18,9 @@ Co-op, netplay and mod loading are already in progress.
 
 ## Playing
 
-1. Put your GE (USA) cart image in the `Data` folder next to the executable. See `Data/README.txt` for the accepted formats and other ways to point the game at it.
-2. Run `ProjectMidas.exe` (Windows) or `ProjectMidas` (Linux).
+1. Download the latest release [here](https://github.com/murkantor/Project-Midas/releases)
+2. Put your GE (USA) cart image in the `Data` folder next to the executable. See `Data/README.txt` for the accepted formats and other ways to point the game at it.
+3. Run `ProjectMidas.exe` (Windows) or `ProjectMidas` (Linux).
 
 Files next to the executable:
 
