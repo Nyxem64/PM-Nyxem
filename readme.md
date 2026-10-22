@@ -10,6 +10,11 @@ Project Midas is a work-in-progress PC port of GE, built from the N64 decompilat
 
 Claude was used in the making of this project. If you don't agree with this, please do not download either the executables or the source.
 
+## Contributing
+
+Please contribute to the project; see [CONTRIBUTING.md](CONTRIBUTING.md) for what a good pull request looks like, including the rules for AI-assisted changes and the naming of forks. 
+Co-op, netplay and mod loading are already in progress.
+
 ## Playing
 
 1. Put your GE (USA) cart image in the `Data` folder next to the executable. See `Data/README.txt` for the accepted formats and other ways to point the game at it.
@@ -104,10 +109,6 @@ sudo apt install libsdl2-2.0-0:i386 libgl1:i386
   ```
   GE_FULLHEIGHT=0 GE_EDGEINSET=1 ./ProjectMidas
   ```
-
-## Contributing
-
-Co-op, netplay and mod loading are already in progress. Please contribute here rather than forking; see [CONTRIBUTING.md](CONTRIBUTING.md) for what a good pull request looks like, including the rules for AI-assisted changes.
 
 ## License
 
