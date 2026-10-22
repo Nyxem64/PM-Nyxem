@@ -2,6 +2,14 @@
 
 Project Midas is a PC port of GE built with care: matching the original game where it matters, with every change tested in game. Contributions are welcome when they meet that bar. Please contribute here rather than starting a fork, so the work stays in one place.
 
+## Forks
+
+The code is MIT licensed, so you are free to fork it. If you do, please:
+
+- give your fork its own name, not "Project Midas",
+- link back to this repository,
+- send fixes back here as pull requests so everyone benefits.
+
 ## Already in progress
 
 These are being worked on now. If you want to help with one, open an issue first so effort isn't duplicated.
@@ -34,15 +42,7 @@ AI tools are fine to use for code. Low-effort AI output is not.
 - You must understand every line you submit and be able to answer questions about it.
 - You must have run and tested the change yourself.
 - Large unreviewed or untested AI changes will be closed without review.
-
-## Forks
-
-The code is MIT licensed, so you are free to fork it. If you do, please:
-
-- give your fork its own name, not "Project Midas",
-- link back to this repository,
-- send fixes back here as pull requests so everyone benefits.
-
+  
 ## License
 
 By contributing you agree that your contribution is licensed under the MIT license in [LICENSE](LICENSE). That license covers the port code only; see its "Scope" section.
