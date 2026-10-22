@@ -12,7 +12,7 @@ Claude was used in the making of this project. If you don't agree with this, ple
 
 ## Contributing
 
-Please contribute to the project; see [CONTRIBUTING.md](CONTRIBUTING.md) for what a good pull request looks like, including the rules for AI-assisted changes and the naming of forks. 
+Please contribute to the project; see [CONTRIBUTING.md](CONTRIBUTING.md) for the rules on forks and their names, the rules on AI assistance and what a good pull request looks like.
 Co-op, netplay and mod loading are already in progress.
 
 ## Playing
